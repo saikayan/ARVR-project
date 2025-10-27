@@ -62,4 +62,4 @@ ____________________________________________________________________
 
 # Acknowledgements
 
-- Upgraded and enhanced for Unity 2025 compatibility with new features, animations, and optimizations by Sai Kalyan.
+- Upgraded and enhanced for Unity 2025 compatibility with new features, animations, and optimizations.
