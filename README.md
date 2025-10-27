@@ -61,6 +61,5 @@ ____________________________________________________________________
 6. if you want an permanent app then you can click on the check box "export project" and "export app bundel" then click on the build and run , approx it will take 20 to 25 min  or 10 min if you have a good laptop/pc.
 
 # Acknowledgements
-- Inspired by Vikalp Dubey’s open-source project: AR in Education
 
 - Upgraded and enhanced for Unity 2025 compatibility with new features, animations, and optimizations by Sai Kalyan.
