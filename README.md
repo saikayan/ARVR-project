@@ -124,3 +124,4 @@ If you need visual effects (like **Bloom** or **Vignette**):
 # Acknowledgements
 
 - Upgraded and enhanced for Unity 2025 compatibility with new features, animations, and optimizations.
+- Thanks VikalpDube for the referance.
